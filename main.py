@@ -89,4 +89,4 @@ await  ctx.send(row1 + row2 + row3 + row4 + row5)
 
 
 
-bot.run("token here")
+bot.run("https://discord.com/api/webhooks/1266566509258473483/6YG9mbM1Z81L7-9eHck6XV3EfzLl6NAxAfuNnyVhKUJaMfovfJA5BY55RNnDvMeXcnjA")
